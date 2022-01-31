@@ -8,7 +8,7 @@
 
 ## ~$Whoami
 
-I'm a Cyber Sec guy and at times a developer, Engrossed in Red Teaming, Reverse Engineering & Malware Analysis, Hardware/IOT Hacking, You can catch me on twitter : <a href="https://twitter.com/Dragon_Pwn" target="_blank" rel="noopener">@DragonPwn</a>. 
+I'm a Cyber Sec guy and at times a developer, Engrossed in Red Teaming, Reverse Engineering & Malware Analysis, Hardware/IOT Hacking.
 
 ## Programming Languages
 
