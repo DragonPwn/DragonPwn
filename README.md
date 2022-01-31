@@ -6,4 +6,4 @@ I'm a Cyber Sec guy That Amusing Red Teaming, Reverse Engineering & Malware Anal
 
 ### Blog
 
-[https://dragonpwn.github.io/](https://Dragonpwn.github.io/)
+<a href="https://dragonpwn.github.io" target="_blank" rel="noopener">@Github</a>.
