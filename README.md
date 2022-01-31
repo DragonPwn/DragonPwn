@@ -1,4 +1,4 @@
-# Hi There! Call Me DragonPwn ☄
+# Hi There! Call Me **DragonPwn** ☄
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its.abdullaah/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dragon_Pwn)
@@ -9,6 +9,10 @@
 ## ~$Whoami
 
 I'm a Cyber Sec guy and at times a developer, Engrossed in Red Teaming, Reverse Engineering & Malware Analysis, Hardware/IOT Hacking, You can catch me on twitter : <a href="https://twitter.com/Dragon_Pwn" target="_blank" rel="noopener">@DragonPwn</a>. 
+
+## Programming Languages
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 ## Blog
 
