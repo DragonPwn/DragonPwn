@@ -1,9 +1,11 @@
-## Hi there! Call me DragonPwn ☄
+# Hi there! Call me DragonPwn ☄
 
-### ~$Whoami
+"POWER COMES FROM RESPONSE TO A NEED, NOT DESIRE. YOU HAVE TO CREATE THAT NEED."
+
+## ~$Whoami
 
 I'm a Cyber Sec guy that Amusing Red Teaming, Reverse Engineering & Malware Analysis, Hardware/IOT Hacking. 
 
-### Blog
+## Blog
 
 <a href="https://dragonpwn.github.io" target="_blank" rel="noopener">DragonPwn</a>.
